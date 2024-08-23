@@ -1,4 +1,4 @@
-Oii eu sou o Leonardo Huada!
+### Oii eu sou o Leonardo Huada!
 
 - 🔭 Hoje trabalho com gestão de anuncios mas estou migrando para programação 😎
 - 🌱 Estou atualmente me graduando em Analise e desenvolvimento de sistemas 😍
@@ -11,7 +11,7 @@ Oii eu sou o Leonardo Huada!
 
 ![Leo Huada GitHub stats](https://github-readme-stats.vercel.app/api?username=Leohuada&show_icons=true&theme=colt)
 
-Tecnologias que uso no meu dia a dia!
+## Tecnologias que uso no meu dia a dia!
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -20,3 +20,5 @@ Tecnologias que uso no meu dia a dia!
    <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
    <img align="center" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
+
+🚀 Estudante de Análise de Sistemas com paixão por desenvolvimento full stack e Inteligência Artificial. Explorando o universo do código, criando soluções inovadoras e compartilhando conhecimento. Vamos construir algo incrível juntos! 🌟
