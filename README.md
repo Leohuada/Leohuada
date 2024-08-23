@@ -1,4 +1,4 @@
-### Oii eu sou o Leonardo Huada!
+# Oii eu sou o Leonardo Huada!
 
 - 🔭 Hoje trabalho com gestão de anuncios mas estou migrando para programação 😎
 - 🌱 Estou atualmente me graduando em Analise e desenvolvimento de sistemas 😍
@@ -21,4 +21,4 @@
    <img align="center" alt="unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 </div>
 
-🚀 Estudante de Análise de Sistemas com paixão por desenvolvimento full stack e Inteligência Artificial. Explorando o universo do código, criando soluções inovadoras e compartilhando conhecimento. Vamos construir algo incrível juntos! 🌟
+### 🚀 Estudante de Análise de Sistemas com paixão por desenvolvimento full stack e Inteligência Artificial. Explorando o universo do código, criando soluções inovadoras e compartilhando conhecimento. Vamos construir algo incrível juntos! 🌟
